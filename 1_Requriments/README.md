@@ -26,3 +26,57 @@
      
   
   1 This is the system code every color has its own value by which it gets the output by performing the particular mathematical equation.
+  
+   # Resistor Color Code Mnemonics
+   Big (for black) Beautiful (brown) Roses (red) Occupy (orange) Your (yellow) Garden (green) But (blue) 
+          Violets (violet or purple) Grow (gray) Wild (white) So (silver) GetSome (gold).
+   
+   # 4W'S & 1H 
+   
+  # WHO
+     
+   1 The project can be used almost by all the particular organization people.At the end,user satisfaction is the goal of the project.
+     
+   # WHAT
+   
+   1 By this project we can calculate the resistor values .
+      
+   # WHEN
+   
+   1 This can be used when ew have to find the capacity of resistor.
+      
+   # WHERE
+   
+   1  This can be used in Electrical Labs for validating values of resistors.+
+      
+   # HOW
+   
+   1 -> This code is designed in such a way that it askes for the three inputs from the user by given requriments 
+   
+   2 -> And by that it will match the corresponding color .
+   
+   3 -> By this it obtains the numbers and ready for calculation
+   
+   4 -> Finally by performing the mathematical calculations it will present the output .
+ 
+ # DETAIL REQURIMENTS 
+ 
+   # LOW LEVEL REQURIMENTS 
+   
+  1 Functions to take inputs
+  
+  2 Assaigning them in the corresponding value
+   
+  3 Function to return the output 
+  
+  # HIGH LEVEL REQURIMENTS 
+   1 Operating System (Windows 10/Linux)
+   
+   2 C language
+   
+   3 Hard Disk(2GB)
+    
+   4 RAM(512MB)
+
+  
+       
