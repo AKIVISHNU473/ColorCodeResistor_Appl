@@ -44,6 +44,9 @@
    
    # SWOT ANALYSIS
    ![SWOT ](https://user-images.githubusercontent.com/98825305/153276766-15b2d773-c666-4eff-ad48-c455d0638f24.jpg)
+   # FLOW CHART 
+   
+   ![Flow Diagram](https://user-images.githubusercontent.com/98825305/153285366-099c095a-1c9a-47de-b714-d615623e355b.jpg)
              
                          
 
