@@ -61,23 +61,28 @@
  
  # DETAIL REQURIMENTS 
  
-   # LOW LEVEL REQURIMENTS 
-   
-  1 Functions to take inputs
   
-  2 Assaigning them in the corresponding value
+ # LOW LEVEL REQURIMENTS 
    
-  3 Function to return the output 
+  |   ID   | LOW LEVEL REQURIMENTS  |                           STATUS     |
+  |-------|------------------------|----------------------------------------|
+  |  HR_01      |Functions to take inputs|                      IMPLEMENTED |                      
+  |  HR_02    | Assaigning them in the corresponding value  |   IMPLEMENTED |                    
+  |  HR_03    |   Function to return the output            |    IMPLEMENTED |         
+  |      ||    
+  
+  
   
   # HIGH LEVEL REQURIMENTS 
-   1 Operating System (Windows 10/Linux)
-   
-   2 C language
-   
-   3 Hard Disk(2GB)
-    
-   4 RAM(512MB)
-   
+  
+  |   ID   | HIGH LEVEL REQURIMENTS  |                           STATUS     |
+  |-------|------------------------|----------------------------------------|
+  |  HR_01      |Operating System (Windows 10/Linux)|                      IMPLEMENTED |                      
+  |  HR_02    |  C language |   IMPLEMENTED |                    
+  |  HR_03    |   WSL          |    IMPLEMENTED |         
+  |      ||                        
+             
+                         
 
   
    
