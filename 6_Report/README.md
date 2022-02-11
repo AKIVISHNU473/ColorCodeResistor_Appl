@@ -8,3 +8,31 @@
 4 . As the electronics industry evolved, one of the first things that the industry’s players did was standardize the color code marking on resistors. Resistor manufacturers adopted this color code.
 
 5 Manufacturers typically use a color band system known as the resistor color code
+
+
+ # DETAIL REQURIMENTS 
+ 
+  
+ # LOW LEVEL REQURIMENTS 
+   
+  |   ID   | LOW LEVEL REQURIMENTS  |                           STATUS     |
+  |-------|------------------------|----------------------------------------|
+  |  HR_01      |Functions to take inputs|                      IMPLEMENTED |                      
+  |  HR_02    | Assaigning them in the corresponding value  |   IMPLEMENTED |                    
+  |  HR_03    |   Function to return the output            |    IMPLEMENTED |         
+  |      ||    
+  
+  
+  
+  # HIGH LEVEL REQURIMENTS 
+  
+  |   ID   | HIGH LEVEL REQURIMENTS  |                           STATUS     |
+  |-------|------------------------|----------------------------------------|
+  |  HR_01      |Operating System (Windows 10/Linux)|                      IMPLEMENTED |                      
+  |  HR_02    |  C language |   IMPLEMENTED |                    
+  |  HR_03    |   WSL          |    IMPLEMENTED |         
+  |      ||                        
+             
+                         
+
+  
