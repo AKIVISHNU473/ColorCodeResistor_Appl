@@ -31,7 +31,19 @@
   |  HR_01      |Operating System (Windows 10/Linux)|                      IMPLEMENTED |                      
   |  HR_02    |  C language |   IMPLEMENTED |                    
   |  HR_03    |   WSL          |    IMPLEMENTED |         
-  |      ||                        
+  |      ||            
+  
+  
+   
+   # RULES
+   
+   ![1](https://user-images.githubusercontent.com/98825305/153272934-e1817f03-840e-4bb5-89be-696d9685ce6b.jpg)
+   
+   # STANDARD VALUES 
+   ![2](https://user-images.githubusercontent.com/98825305/153273503-bd37c599-ad62-4b89-a9fa-00a779f5c771.png)
+   
+   # SWOT ANALYSIS
+   ![SWOT ](https://user-images.githubusercontent.com/98825305/153276766-15b2d773-c666-4eff-ad48-c455d0638f24.jpg)
              
                          
 
