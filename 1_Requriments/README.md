@@ -77,6 +77,11 @@
    3 Hard Disk(2GB)
     
    4 RAM(512MB)
+   
+
+  
+   
+   
 
   
        
