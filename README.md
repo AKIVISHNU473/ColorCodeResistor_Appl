@@ -5,3 +5,12 @@
  
  ![Code_Badge](https://api.codiga.io/project/31143/status/svg)
  
+ # Features
+|   Features   |   Status    |
+|   :---       |   :---      |
+|  `Main menu` | Implenented |
+|`getting inputs`| Implenented |
+|`decoding` | Implenented |
+|`produce output`| Implenented |
+|    `Exit`      | Implenented |
+ 
